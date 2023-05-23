@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keonthedev
+- 👀 I’m interested in front end developement, jiu jitsu, and running social media platforms
+- 🌱 I’m currently learning React, next.js, javascript and data visualization
+- 💞️ I’m open to hearing any collaborations 😁
+- 📫 How to reach me keonthedev@gmail.com
