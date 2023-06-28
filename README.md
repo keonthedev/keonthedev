@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keonthedev
 - 👀 I’m interested in front end developement, jiu jitsu, and running social media platforms
-- 🌱 I’m currently learning React, next.js, javascript and data visualization
+- 🌱 I’m currently learning PostgreSQL, SQL, Nano, and Bash
 - I aim to be a "white belt" for life and remain learning so I am open to collaborating or constructive critques on my work!
 - 📫 You can reach me @ keonthedev@gmail.com
